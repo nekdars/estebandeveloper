@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**nekdars/nekdars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi  👋
 
-Here are some ideas to get you started:
+Hola mi nombre es Nicolas Rodriguez y soy un estudiante activo y me encuentro terminando tecnologo para la carrera de Analisis y Diseño de Desarrollo de Sistemas en el SENA y lo complemento con platzi con la carrera de Programacion y Desarrollo de Software, Escuela del Desarrollo Web, Escuela de Javascript.
+ [Perfil de Platzi](https://platzi.com/p/esteban-xof/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Habilidadades
+Manejo de git [perfil de github]( https://github.com/nekdars/)
+Manejo de HTML
+Manejo de Css
+Manejo de PHP
+Manejo de Mysql
+Manejo Oracle
+
+## Contacto
+[Perfil de linkedIn](www.linkedin.com/in/nicolas-rodri)
